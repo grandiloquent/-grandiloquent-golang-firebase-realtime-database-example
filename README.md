@@ -1,4 +1,4 @@
-1. 访问[Firebase console](https://console.firebase.google.com/) 添加一个项目
+1. 访问 [Firebase console](https://console.firebase.google.com/) 添加一个项目
 2. 构建 > Realtime Database 创建一个实时数据库
 3. 修改规则
 
@@ -17,7 +17,8 @@
         }
     }
     ```
-4. 项目概览设置图标 > 项目设置 > 服务帐号 
+4. 项目概览设置图标 > 项目设置 > 服务帐号
+5. 执行 `go get firebase.google.com/go/v4`
  
 ## 命令
 
